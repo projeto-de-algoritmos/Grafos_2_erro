@@ -1,15 +1,15 @@
 
 
-# Caixeiro Viajante
+# Serviço Postal
 
-**Número da Lista**: 2 <br>
+**Número da Lista**: 7 <br>
 **Conteúdo da Disciplina**: Grafos 2
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 17/0164357  |  Ugor Brandão |
-| 17/0161897 | Eduarda Servidio |
+| 18/0124099  |  Juliana Pereira Valle Gonçalves |
+| 18/0127969| Matheus Yan Monteiro dos Santos Almeida |
 
 ## Sobre  
 
